@@ -1,0 +1,24 @@
+.all {
+  margin-top: 8px;
+  margin-bottom: 65px;
+}
+
+.lpart {
+  background-color: #020303ec;
+  opacity: 100%;
+  margin-left: 10px;
+  width: 60%;
+}
+.rpart {
+  background-color: #3c5153ec;
+  opacity: 1;
+  width: auto;
+  color: rgb(241, 247, 245);
+}
+.wimg {
+  /* background-color: #e1eaf7ec; */
+  color: #f1e422ec;
+  font-size: 100px;
+  height: 100px;
+  text-align: center;
+}
