@@ -21,8 +21,10 @@ The app is totaly responsive
   ![wmid](https://github.com/i-nirbhay10/weather-info/assets/132742154/3f20fc27-c87f-4190-bd88-ee686bf1aa4b)  ,  ![wmobail](https://github.com/i-nirbhay10/weather-info/assets/132742154/ed2d3d94-6047-4877-9ff8-7fddd37e40b0)
 
 
+# Tools and technology used.
 
-
-
- 
-
+React JS  
+HTML, CSS  
+Openweathermap API  
+VS Studio  
+React DOM etc.
