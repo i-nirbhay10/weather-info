@@ -4,19 +4,18 @@
 }
 
 .lpart {
-  background-color: #020303ec;
+  background-color: #eaf3f3ec;
   opacity: 100%;
   margin-left: 10px;
   width: 60%;
 }
 .rpart {
-  background-color: #3c5153ec;
+  background-color: #b3eef3ec;
   opacity: 1;
   width: auto;
   color: rgb(241, 247, 245);
 }
 .wimg {
-  /* background-color: #e1eaf7ec; */
   color: #f1e422ec;
   font-size: 100px;
   height: 100px;
